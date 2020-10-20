@@ -73,4 +73,4 @@ if action == 'in':
         punch_out(clock)
 
 else:
-    raise Exception('Please enter a valid response to begin the timesheet')
+    raise Exception('Please enter a valid response')
